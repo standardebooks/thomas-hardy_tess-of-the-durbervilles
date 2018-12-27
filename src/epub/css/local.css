@@ -5,3 +5,8 @@ span[epub|type~="subtitle"]{
 	display: block;
 	font-weight: normal;
 }
+
+span.elision{
+	margin: .5em;
+	margin-left: 3em;
+}
