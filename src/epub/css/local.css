@@ -27,6 +27,7 @@ footer{
 	margin-top: 1em;
 }
 
+b,
 .signature{
 	font-style: normal;
 	font-variant: small-caps;
@@ -68,7 +69,17 @@ footer{
 	display: none;
 }
 
+p span.i2{
+	text-indent: -1em;
+	padding-left: 3em;
+}
+
 span.elision{
 	margin: .5em;
 	margin-left: 3em;
+}
+
+cite{
+	font-style: normal;
+	font-variant: small-caps;
 }
