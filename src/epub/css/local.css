@@ -46,6 +46,10 @@ b,
 	margin-bottom: 1em;
 }
 
+.inscription i{
+	font-style: normal;
+}
+
 [epub|type~="z3998:song"],
 [epub|type~="z3998:verse"]{
 	display: inline-block; 
