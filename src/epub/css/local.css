@@ -1,7 +1,7 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-/* All epigraphs and dedication */
+/* All epigraphs */
 [epub|type~="epigraph"]{
 	font-style: italic;
 	hyphens: none;
@@ -14,7 +14,7 @@
 }
 /* End all epigraphs */
 
-/* Full-page epigraphs and dedication*/
+/* Full-page epigraphs */
 [epub|type~="epigraph"]{
 	text-align: center;
 }
