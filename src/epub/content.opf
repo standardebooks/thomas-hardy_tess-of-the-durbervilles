@@ -30,6 +30,13 @@
 		<link href="onix.xml" rel="onix-record"/>
 		<dc:title id="title">Tess of the d’Urbervilles</dc:title>
 		<meta property="file-as" refines="#title">Tess of the d’Urbervilles</meta>
+		<meta property="title-type" refines="#title">main</meta>
+		<dc:title id="subtitle">A Pure Woman Faithfully Presented</dc:title>
+		<meta property="file-as" refines="#subtitle">Pure Woman Faithfully Presented, A</meta>
+		<meta property="title-type" refines="#subtitle">subtitle</meta>
+		<dc:title id="fulltitle">Tess of the d’Urbervilles: A Pure Woman Faithfully Presented</dc:title>
+		<meta property="file-as" refines="#fulltitle">Tess of the d’Urbervilles: A Pure Woman Faithfully Presented</meta>
+		<meta property="title-type" refines="#fulltitle">extended</meta>
 		<dc:subject id="subject-1">Didactic fiction</dc:subject>
 		<dc:subject id="subject-2">Poor families -- Fiction</dc:subject>
 		<dc:subject id="subject-3">Children of the rich -- Fiction</dc:subject>
