@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
-		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/thomas-hardy/tess-of-the-d-urbervilles</dc:identifier>
+		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/thomas-hardy/tess-of-the-durbervilles</dc:identifier>
 		<dc:date>1900-01-01T00:00:00Z</dc:date>
 		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
 		<meta property="se:revision-number">0</meta>
@@ -75,7 +75,7 @@
 		<meta property="se:word-count">WORDCOUNT</meta>
 		<meta property="se:reading-ease.flesch">READINGEASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Tess_of_the_d%27Urbervilles</meta>
-		<meta property="se:url.vcs.github">https://github.com/standardebooks/thomas-hardy_tess-of-the-d-urbervilles</meta>
+		<meta property="se:url.vcs.github">https://github.com/standardebooks/thomas-hardy_tess-of-the-durbervilles</meta>
 		<dc:creator id="author">Thomas Hardy</dc:creator>
 		<meta property="file-as" refines="#author">Hardy, Thomas</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Thomas_Hardy</meta>
