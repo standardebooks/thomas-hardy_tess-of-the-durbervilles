@@ -95,7 +95,7 @@ b,
 
 [epub|type~="z3998:song"],
 [epub|type~="z3998:verse"]{
-	display: inline-block; 
+	display: inline-block;
 }
 
 [epub|type~="z3998:song"] p,
@@ -129,9 +129,4 @@ p span.i2{
 span.elision{
 	margin: .5em;
 	margin-left: 3em;
-}
-
-cite{
-	font-style: normal;
-	font-variant: small-caps;
 }
