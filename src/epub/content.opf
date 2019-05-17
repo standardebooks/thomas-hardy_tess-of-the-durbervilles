@@ -26,7 +26,7 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Tess of the d’Urbervilles</dc:title>
 		<meta property="file-as" refines="#title">Tess of the d’Urbervilles</meta>
 		<meta property="title-type" refines="#title">main</meta>
@@ -47,27 +47,36 @@
 		<dc:subject id="subject-9">Women murderers -- Fiction</dc:subject>
 		<dc:subject id="subject-10">Rape victims -- Fiction</dc:subject>
 		<dc:subject id="subject-11">Women household employees -- Fiction</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/110</meta>
-		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/110</meta>
-		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/110</meta>
-		<meta property="meta-auth" refines="#subject-4">https://www.gutenberg.org/ebooks/110</meta>
-		<meta property="meta-auth" refines="#subject-5">https://www.gutenberg.org/ebooks/110</meta>
-		<meta property="meta-auth" refines="#subject-6">https://www.gutenberg.org/ebooks/110</meta>
-		<meta property="meta-auth" refines="#subject-7">https://www.gutenberg.org/ebooks/110</meta>
-		<meta property="meta-auth" refines="#subject-8">https://www.gutenberg.org/ebooks/110</meta>
-		<meta property="meta-auth" refines="#subject-9">https://www.gutenberg.org/ebooks/110</meta>
-		<meta property="meta-auth" refines="#subject-10">https://www.gutenberg.org/ebooks/110</meta>
-		<meta property="meta-auth" refines="#subject-11">https://www.gutenberg.org/ebooks/110</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh85037714</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">sh2008109128</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh2008100487</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-4">sh2008112615</meta>
+		<meta property="authority" refines="#subject-5">LCSH</meta>
+		<meta property="term" refines="#subject-5">sh85098569</meta>
+		<meta property="authority" refines="#subject-6">LCSH</meta>
+		<meta property="term" refines="#subject-6">sh2008100486</meta>
+		<meta property="authority" refines="#subject-7">LCSH</meta>
+		<meta property="term" refines="#subject-7">sh2008113649</meta>
+		<meta property="authority" refines="#subject-8">LCSH</meta>
+		<meta property="term" refines="#subject-8">sh2008107175</meta>
+		<meta property="authority" refines="#subject-9">LCSH</meta>
+		<meta property="term" refines="#subject-9">sh2008113493</meta>
+		<meta property="authority" refines="#subject-10">LCSH</meta>
+		<meta property="term" refines="#subject-10">sh2008110359</meta>
+		<meta property="authority" refines="#subject-11">LCSH</meta>
+		<meta property="term" refines="#subject-11">sh2008113434</meta>
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A young woman of poor and uneducated parents is driven by guilt to try to redeem her family’s fortunes.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;Tess of the d’Urbervilles&lt;/i&gt; is said to be Thomas Hardy’s fictional masterpiece and is considered to be an important nineteenth century novel. It explores themes of love, sex, class and morality in an aching love story.&lt;/p&gt;
 			&lt;p&gt;It initially appeared in a censored, serialised version in &lt;i&gt;The Graphic&lt;/i&gt; in 1891 and was published in a single volume the following year. Early reviews were mixed, partly because of its challenge to Victorian sexual morals—it is now looked upon much more favorably.&lt;/p&gt;
 			&lt;p&gt;Tess Durbeyfield is the oldest child of uneducated peasants who are given the impression that they may have noble blood, as their surname is a corruption of that of an extinct Norman family. When Tess participates in the village May Dance, she meets Angel, who stops to join the dance but notices Tess too late to dance with her. That night, Tess’s father gets too drunk to drive to the market, so she undertakes the journey herself. However, she falls asleep at the reins, and the family’s only horse encounters a speeding wagon and is fatally wounded. Tess feels so guilty over the consequences for the family that she agrees to try to claim kin with a rich widow who lives in a neighbouring town. The story traces Tess’s life through the following years.&lt;/p&gt;
 			&lt;p&gt;The novel has been adapted for the stage, theatre, opera, cinema and television numerous times since its publication.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/110</dc:source>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.174960</dc:source>
