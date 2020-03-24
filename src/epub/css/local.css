@@ -15,7 +15,7 @@
 /* End all epigraphs */
 
 /* Full-page epigraphs */
-[epub|type~="epigraph"]{
+section[epub|type~="epigraph"]{
 	text-align: center;
 }
 
