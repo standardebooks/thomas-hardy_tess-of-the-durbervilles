@@ -51,11 +51,6 @@ section[epub|type~="halftitlepage"] span[epub|type~="subtitle"]{
 	font-weight: normal;
 }
 
-span[epub|type~="subtitle"]{
-	display: block;
-	font-weight: normal;
-}
-
 p[epub|type~="z3998:salutation"],
 p[epub|type~="z3998:salutation"] + p{
 	text-indent: 0;
