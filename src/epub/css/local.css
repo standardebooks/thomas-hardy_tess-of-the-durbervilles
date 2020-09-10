@@ -61,7 +61,7 @@ footer{
 }
 
 b,
-[epub:type~="z3998:signature"]{
+[epub|type~="z3998:signature"]{
 	font-style: normal;
 	font-variant: small-caps;
 }
