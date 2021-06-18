@@ -88,7 +88,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/110</dc:source>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.174960</dc:source>
 		<meta property="se:production-notes">"Compleat" was not modernized, as it is likely a pun on "The Compleat Angler"</meta>
-		<meta property="se:word-count">151768</meta>
+		<meta property="se:word-count">151766</meta>
 		<meta property="se:reading-ease.flesch">68.91</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Tess_of_the_d%27Urbervilles</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/thomas-hardy_tess-of-the-durbervilles</meta>
