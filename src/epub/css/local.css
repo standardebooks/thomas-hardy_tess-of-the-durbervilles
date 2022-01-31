@@ -9,9 +9,9 @@
 }
 
 [epub|type~="epigraph"] cite{
-	margin-top: 1em;
 	font-style: normal;
 	font-variant: small-caps;
+	margin-top: 1em;
 }
 /* End all epigraphs */
 
@@ -51,13 +51,13 @@ p[epub|type~="z3998:salutation"] + p{
 }
 
 p[epub|type~="z3998:salutation"]{
-	font-variant: small-caps;
 	font-style: normal;
+	font-variant: small-caps;
 }
 
 footer{
-	text-align: right;
 	margin-top: 1em;
+	text-align: right;
 }
 
 b,
@@ -72,11 +72,11 @@ b,
 }
 
 .inscription p{
-	text-align: center;
+	font-style: normal;
 	font-variant: small-caps;
 	font-weight: normal;
-	font-style: normal;
 	margin-bottom: 1em;
+	text-align: center;
 	text-indent: 0;
 }
 
