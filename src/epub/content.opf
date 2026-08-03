@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/thomas-hardy/tess-of-the-durbervilles</dc:identifier>
 		<dc:date>2019-01-11T20:19:01Z</dc:date>
@@ -79,13 +79,13 @@
 		<meta property="group-position" refines="#collection-2">27</meta>
 		<meta id="collection-3" property="belongs-to-collection">Wessex</meta>
 		<meta property="collection-type" refines="#collection-3">series</meta>
-		<dc:description id="description">A young woman of poor and uneducated parents is driven by guilt to try to redeem her family’s fortunes.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A young woman of poor and uneducated parents is driven by guilt to try to redeem her family’s fortunes.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;&lt;i&gt;Tess of the d’Urbervilles&lt;/i&gt; is said to be &lt;a href="https://standardebooks.org/ebooks/thomas-hardy"&gt;Thomas Hardy’s&lt;/a&gt; fictional masterpiece and is considered to be an important nineteenth century novel. It explores themes of love, sex, class and morality in an aching love story.&lt;/p&gt;
 			&lt;p&gt;It initially appeared in a censored, serialised version in &lt;i&gt;The Graphic&lt;/i&gt; in 1891 and was published in a single volume the following year. Early reviews were mixed, partly because of its challenge to Victorian sexual morals—it is now looked upon much more favorably.&lt;/p&gt;
 			&lt;p&gt;Tess Durbeyfield is the oldest child of uneducated peasants who are given the impression that they may have noble blood, as their surname is a corruption of that of an extinct Norman family. When Tess participates in the village May Dance, she meets Angel, who stops to join the dance but notices Tess too late to dance with her. That night, Tess’s father gets too drunk to drive to the market, so she undertakes the journey herself. However, she falls asleep at the reins, and the family’s only horse encounters a speeding wagon and is fatally wounded. Tess feels so guilty over the consequences for the family that she agrees to try to claim kin with a rich widow who lives in a neighbouring town. The story traces Tess’s life through the following years.&lt;/p&gt;
 			&lt;p&gt;The novel has been adapted for the stage, theatre, opera, cinema and television numerous times since its publication.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/110</dc:source>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.174960</dc:source>
