@@ -79,7 +79,7 @@
 		<meta property="group-position" refines="#collection-2">27</meta>
 		<meta id="collection-3" property="belongs-to-collection">Wessex</meta>
 		<meta property="collection-type" refines="#collection-3">series</meta>
-		<dc:abstract>A young woman of poor and uneducated parents is driven by guilt to try to redeem her family’s fortunes.</dc:abstract>
+		<meta property="schema:abstract">A young woman of poor and uneducated parents is driven by guilt to try to redeem her family’s fortunes.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;i&gt;Tess of the d’Urbervilles&lt;/i&gt; is said to be &lt;a href="https://standardebooks.org/ebooks/thomas-hardy"&gt;Thomas Hardy’s&lt;/a&gt; fictional masterpiece and is considered to be an important nineteenth century novel. It explores themes of love, sex, class and morality in an aching love story.&lt;/p&gt;
 			&lt;p&gt;It initially appeared in a censored, serialised version in &lt;i&gt;The Graphic&lt;/i&gt; in 1891 and was published in a single volume the following year. Early reviews were mixed, partly because of its challenge to Victorian sexual morals—it is now looked upon much more favorably.&lt;/p&gt;
