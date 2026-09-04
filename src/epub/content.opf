@@ -38,16 +38,16 @@
 		<meta property="file-as" refines="#fulltitle">Tess of the d’Urbervilles: A Pure Woman Faithfully Presented</meta>
 		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<dc:subject id="subject-1">Didactic fiction</dc:subject>
-		<dc:subject id="subject-2">Poor families -- Fiction</dc:subject>
-		<dc:subject id="subject-3">Children of the rich -- Fiction</dc:subject>
-		<dc:subject id="subject-4">Triangles (Interpersonal relations) -- Fiction</dc:subject>
+		<dc:subject id="subject-2">Poor families--Fiction</dc:subject>
+		<dc:subject id="subject-3">Children of the rich--Fiction</dc:subject>
+		<dc:subject id="subject-4">Triangles (Interpersonal relations)--Fiction</dc:subject>
 		<dc:subject id="subject-5">Pastoral fiction</dc:subject>
-		<dc:subject id="subject-6">Children of clergy -- Fiction</dc:subject>
-		<dc:subject id="subject-7">Wessex (England) -- Fiction</dc:subject>
-		<dc:subject id="subject-8">Man-woman relationships -- Fiction</dc:subject>
-		<dc:subject id="subject-9">Women murderers -- Fiction</dc:subject>
-		<dc:subject id="subject-10">Rape victims -- Fiction</dc:subject>
-		<dc:subject id="subject-11">Women household employees -- Fiction</dc:subject>
+		<dc:subject id="subject-6">Children of clergy--Fiction</dc:subject>
+		<dc:subject id="subject-7">Wessex (England)--Fiction</dc:subject>
+		<dc:subject id="subject-8">Man-woman relationships--Fiction</dc:subject>
+		<dc:subject id="subject-9">Women murderers--Fiction</dc:subject>
+		<dc:subject id="subject-10">Rape victims--Fiction</dc:subject>
+		<dc:subject id="subject-11">Women household employees--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85037714</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
