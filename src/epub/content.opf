@@ -101,8 +101,9 @@
 		<link href="https://id.loc.gov/authorities/names/n79046230.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
-		<dc:contributor id="artist">Francisco José de Goya y Lucientes</dc:contributor>
-		<meta property="file-as" refines="#artist">Goya y Lucientes, Francisco José de</meta>
+		<dc:contributor id="artist">Francisco Goya</dc:contributor>
+		<meta property="file-as" refines="#artist">Goya, Francisco</meta>
+		<meta property="schema:alternateName" refines="#artist">Francisco José de Goya y Lucientes</meta>
 		<link href="https://en.wikipedia.org/wiki/Francisco_Goya" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n79003363.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
